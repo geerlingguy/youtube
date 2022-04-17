@@ -2,6 +2,8 @@
 
 I currently have two YouTube channels:
 
+| Channel | Subscribers |
+| ------- | ----------- |
 | [Jeff Geerling](https://www.youtube.com/c/JeffGeerling) (main channel) | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCR-DXc1voovS8nhAvccRZhg?style=social) |
 | [Geerling Engineering](https://www.youtube.com/c/GeerlingEngineering) (second channel) | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsd6hP-zzIkCpw8XGw7Osyw?style=social) |
 
