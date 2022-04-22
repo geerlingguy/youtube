@@ -42,10 +42,13 @@ The links below are mostly affiliate links.
   - Microphone: [Sennheiser MKE600](https://amzn.to/3jLpIaN)
   - Preamp: [Symetrix 528E](https://amzn.to/3d0HdSt)
   - USB Audio Interface: [Behringer U-Phoria UMC202HD](https://amzn.to/3jGtYHH)
+  - Microphone (wireless): [Rode Wireless Go II](https://amzn.to/3OuP0bm)
+  - Microphone (lav): [Rode Lavaliere Go](https://amzn.to/3LaLJfp) x2
   - SD Cards: [Sony TOUGH Series](https://amzn.to/2Z8hOht)
   - Acoustic Treatment: [Owens Corning 703 Acoustic Insulation](https://amzn.to/3qhZE8U)
   - HDMI Capture Interface: [Elgato Cam Link 4K](https://amzn.to/3qea0qp)
   - Desk Light: [Elgato Key Light Air](https://amzn.to/3xxHrKR)
+  - Portable audio recorder: [Zoom H6](https://amzn.to/3xKQmZC)
 
 ### Software
 
@@ -61,6 +64,7 @@ The links below are mostly affiliate links.
   - [Trello](https://trello.com/) (project organization)
   - [Hubstaff](https://hubstaff.com) (vendor invoicing)
   - [Social Blade](https://socialblade.com) (external analytics)
+  - [Hindenburg Field Recorder](https://hindenburg.com/products/hindenburg-field-recorder) (mobile audio recording)
 
 ## My philosophy (why I'm making videos)
 
@@ -134,3 +138,33 @@ They are seeing the video for the first time when it goes live on the channel, j
 At long last, the day the video posts, I hop online, manually share the video link over my normal social media channels, publish my blog post, then interact in the comments section for at least the first hour or two. I'll come back a few points through the day and check over comments again.
 
 The community in the YouTube comments is generally constructive and supportive, and even those who detract on my channel often do so in a respectful and helpful way, so I feel like I get a _lot_ of value out of the comments section.
+
+## Editing - Sound Design
+
+I started my career working in radio. I did mostly IT-related tasks, but radio is an inherently audio-focused industry, so I spent a lot of time working around audio and voice processing chains during the era when everything converted from analog to digital.
+
+So I have a pretty deep understanding of audio, and I think anyone who's successful in video knows how essential good audio and sound design are to making a great video.
+
+For my YouTube channel, I mainly focus on getting the cleanest audio possible in my footage, so I only have to tweak things slightly during editing.
+
+That said, almost every audio clip I record gets a baseline level of processing to bring it up to a good YouTube standard, suitable for playback on devices ranging from smartphones with tinny speakers to home theater sound systems.
+
+I use music and sound effects sparingly, so I try to make my vocal tracks as good as possible. Nobody likes listening to mud.
+
+My minimum processing for a clip in Final Cut Pro X looks like this:
+
+  - **Loudness** enhancement enabled (light compression)
+    - Amount 40%
+    - Uniformity 6%
+  - **Volume**
+    - Adusted so peaks hit near 0 dB (avg -6 dB)
+  - **Voice Isolation** (AI assisted) enabled
+    - Adjusted based on environment, if necessary
+
+### Recording devices
+
+If recording in my 'studio', I also have an analog Symetrix 528E Voice Processor, with very light compression and a noise gate, which reduces processing time in post, and is very useful for live streams, so I don't have to tweak software controls.
+
+I could easily do without it, but it's just nicer to know the mic input into my computer is already close to as perfect as it needs to be.
+
+In the field, I use a variety of mics, depending on the situation. I will put a Rode Wireless Go II on my camera for run-and-gun style shooting (vlog-style), or for A-roll when I don't have time to set up my boom arm and shotgun. I'll also use an on-camera Sennheiser MKE 200 for environment and backup audio, if recording to a separate audio recorder (either my phone with Hindenburg Field Recorder, or a Zoom H6).
