@@ -139,6 +139,20 @@ At long last, the day the video posts, I hop online, manually share the video li
 
 The community in the YouTube comments is generally constructive and supportive, and even those who detract on my channel often do so in a respectful and helpful way, so I feel like I get a _lot_ of value out of the comments section.
 
+## Editing - Titling
+
+Titling can be a beast; in the old days, titling used to be a separate editing stage, after cuts were made. Nowadays, NLEs have made titling a lot easier, at least in simple cases.
+
+But titles can still get quite complicated. I like to keep things simple—most of the time—and my current title style is:
+
+  - Font: Montserrat
+  - Face: Bold or ExtraBold
+  - Color: White
+  - Size: (choose a size that fits with the title displayed)
+  - Style: 1px black outline, 3px black drop shadow
+
+My main goal is for titles to be legible, and only to be used to enhance the visuals or spoken word.
+
 ## Editing - Sound Design
 
 I started my career working in radio. I did mostly IT-related tasks, but radio is an inherently audio-focused industry, so I spent a lot of time working around audio and voice processing chains during the era when everything converted from analog to digital.
