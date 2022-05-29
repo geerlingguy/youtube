@@ -98,9 +98,15 @@ So I accept paid sponsorship (either via trade or direct payment).
 
 I accept sponsorships sparingly. Every sponsor I've had on the channel is a company or small startup I've interacted with on a personal level—either through direct communication with owners or personal use or interest in the products they offer.
 
+### Sponsor Vetting
+
 I am very picky about my corporate sponsors and will never promote something I feel is either scammy or wouldn't be a good value for viewers who might click through the sponsor's link.
 
+### Paid Videos / Product Showcase Videos
+
 I _never_ do paid 'product showcase' videos (where a sponsor pays for a video highlighting their own talking points).
+
+### Review Videos
 
 I _do_ accept review samples of many products, and sometimes devote a video to a particular product if I find it interesting, but I never accept _any_ payment for those videos, nor do I give the company that sent the product _any_ input into the creative process.
 
