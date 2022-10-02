@@ -159,6 +159,12 @@ But titles can still get quite complicated. I like to keep things simple—most 
 
 My main goal is for titles to be legible, and only to be used to enhance the visuals or spoken word.
 
+### Title Templates
+
+I am slowly building up a Title template library for custom titling I do on the channel. For quick pop-up caption titles, I use my 'Caption' Motion template, and for references to other YouTube videos (overlaid when playing a clip from one of those videos), I use the 'YouTube Video Title' template.
+
+These templates are inside the `fcpx/motion/titles` directory in this repository. See the included README for where to place them for use in Final Cut Pro X.
+
 ## Editing - Sound Design
 
 I started my career working in radio. I did mostly IT-related tasks, but radio is an inherently audio-focused industry, so I spent a lot of time working around audio and voice processing chains during the era when everything converted from analog to digital.
