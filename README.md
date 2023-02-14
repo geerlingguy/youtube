@@ -112,6 +112,18 @@ I _do_ accept review samples of many products, and sometimes devote a video to a
 
 They are seeing the video for the first time when it goes live on the channel, just like the rest of my audience.
 
+### Pricing
+
+The tech space is flooded with thousands of channels churning out paid review content and low-effort videos.
+
+I aspire to create _stories_, not just videos that run through feature checklists and offer boring exposition.
+
+As such, many of my videos—even on more mundane topics—are watched by a much more invested and consistent audience. My channel's AVD is high, and my sponsored segments integrated into the video topic itself, leading to much higher viewership.
+
+I have a _fixed_ paid sponsorship rate based on my channel's CPM, or Cost Per Mille (cost per thousand views), and the CPM used in this calculation is currently $15.00 USD.
+
+I update my sponsorship rate regularly, based on the average view count for all long-form videos posted in the past 90 days. The rate is negotiable depending on the specific video and sponsorship.
+
 ## Process - How I make a video
 
   1. **Ideation**: Takes anywhere from hours to months or _years_. I have a running list of every video idea or topic jotted down in a Trello card in an 'Ideas' column. 90% of these never make it to production, but I always have at least 10-20 projects I _want_ to work on in the tank. If it requires external help (collaboration, sponsorship, etc.), I will often create a folder in my active Video Projects directory for it to throw any notes and materials I gather.
