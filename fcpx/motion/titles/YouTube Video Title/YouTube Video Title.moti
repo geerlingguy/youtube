@@ -2,7 +2,7 @@
 <!DOCTYPE ozxmlscene>
 <ozml version="5.13">
 
-<displayversion>5.6.2</displayversion>
+<displayversion>5.6.3</displayversion>
 
 <factory id="1" uuid="03ce4d4f0ea74b3b9af072a0e4a61ab7">
 	<description>Channel</description>
@@ -204,7 +204,7 @@
 	<resolutionMode>0</resolutionMode>
 	<dynamicResolution>1</dynamicResolution>
 	<viewmode>0</viewmode>
-	<overlayOptions>125452</overlayOptions>
+	<overlayOptions>125708</overlayOptions>
 	<oscOptions>30</oscOptions>
 	<compensateAspectRatio>1</compensateAspectRatio>
 	<renderFields>0</renderFields>
@@ -314,14 +314,19 @@
 		<target object="10069" channel="./2/369" name="Text"/>
 		<target object="10346" channel="./2/369" name="Text"/>
 	</publishSettings>
-	<currentFrame>128128 120000 1 0</currentFrame>
-	<currentObject>10043</currentObject>
+	<currentFrame>108108 120000 1 0</currentFrame>
 	<activeLayer>10003</activeLayer>
 	<timeRange offset="0 1 1 0" duration="600600 120000 1 0"/>
 	<playRange offset="0 1 1 0" duration="600600 120000 1 0"/>
 	<flags>1</flags>
 	<audioTracks>0</audioTracks>
-	<timemarkerset/>
+	<timemarkerset>
+		<timemarker>
+			<inpoint>108108 120000 1 0</inpoint>
+			<color>1</color>
+			<type>3</type>
+		</timemarker>
+	</timemarkerset>
 	<guideset/>
 	<curvesets selected="1"/>
 	<scenenode name="Project" id="10000" factoryID="17" version="5">
@@ -348,7 +353,7 @@
 	<layer name="Background" id="10003">
 		<scenenode name="play button" id="1825767928" factoryID="12" version="5">
 			<validTracks>1</validTracks>
-			<aspectRatio>0</aspectRatio>
+			<aspectRatio>1</aspectRatio>
 			<flags>0</flags>
 			<timing in="48048 120000 1 0" out="616616 120000 1 0" offset="20020 120000 1 0"/>
 			<foldFlags>16384</foldFlags>
@@ -490,7 +495,7 @@
 				</parameter>
 			</style>
 			<styleRun style="10348" offset="0" length="15"/>
-			<aspectRatio>0</aspectRatio>
+			<aspectRatio>1</aspectRatio>
 			<flags>0</flags>
 			<timing in="28028 120000 1 0" out="616616 120000 1 0" offset="20020 120000 1 0"/>
 			<foldFlags>0</foldFlags>
@@ -540,7 +545,7 @@
 					<parameter name="Align to Path" id="333" flags="8589934610" default="1" value="1"/>
 				</parameter>
 				<parameter name="Basic" id="2000" flags="12884938770" factoryID="1">
-					<parameter name="Substance" id="10028" flags="12884906002" factoryID="29">
+					<parameter name="Substance" id="1825768109" flags="12884906002" factoryID="29">
 						<parameter name="Color" id="1" flags="4295004162">
 							<foldFlags>15</foldFlags>
 						</parameter>
@@ -568,26 +573,10 @@
 					<parameter name="Opacity" id="1044" flags="8606711824" default="1" value="0"/>
 				</parameter>
 				<parameter name="Face" id="1007" flags="8589938706">
-					<parameter name="Color" id="1008" flags="8589971458">
-						<foldFlags>15</foldFlags>
-					</parameter>
 					<parameter name="Opacity" id="1009" flags="8606711810" default="1" value="0"/>
 				</parameter>
-				<parameter name="Outline" id="1011" flags="8589938706">
-					<parameter name="Color" id="1012" flags="8589971458">
-						<foldFlags>15</foldFlags>
-					</parameter>
-				</parameter>
-				<parameter name="Glow" id="1016" flags="8589971474">
-					<parameter name="Color" id="1017" flags="8589971458">
-						<foldFlags>15</foldFlags>
-					</parameter>
-				</parameter>
-				<parameter name="Drop Shadow" id="1020" flags="8589971474">
-					<parameter name="Color" id="1021" flags="8589971458">
-						<foldFlags>15</foldFlags>
-					</parameter>
-				</parameter>
+				<parameter name="Glow" id="1016" flags="8589971474"/>
+				<parameter name="Drop Shadow" id="1020" flags="8589971474"/>
 				<parameter name="Controls" id="201" flags="8589938704">
 					<foldFlags>4</foldFlags>
 					<parameter name="Animate" id="203" flags="8590000144" default="0" value="1"/>
@@ -619,8 +608,8 @@
 					<parameter name="" id="228" flags="8589934610" default="1" value="0"/>
 					<parameter name="" id="236" flags="8589934610" default="1" value="0"/>
 				</parameter>
-				<parameter name="Basic" id="2000" flags="12884938774" factoryID="1">
-					<parameter name="Substance" id="10028" flags="12884906002" factoryID="29">
+				<parameter name="Basic" id="2000" flags="12884938770" factoryID="1">
+					<parameter name="Substance" id="1825768109" flags="12884906002" factoryID="29">
 						<parameter name="Color" id="1" flags="4295004162">
 							<foldFlags>15</foldFlags>
 						</parameter>
@@ -692,7 +681,7 @@
 				</parameter>
 			</style>
 			<styleRun style="10071" offset="0" length="24"/>
-			<aspectRatio>0</aspectRatio>
+			<aspectRatio>1</aspectRatio>
 			<flags>0</flags>
 			<timing in="20020 120000 1 0" out="616616 120000 1 0" offset="20020 120000 1 0"/>
 			<foldFlags>0</foldFlags>
@@ -735,7 +724,7 @@
 					<parameter name="Align to Path" id="333" flags="8589934610" default="1" value="1"/>
 				</parameter>
 				<parameter name="Basic" id="2000" flags="12884938770" factoryID="1">
-					<parameter name="Substance" id="10028" flags="12884906002" factoryID="29">
+					<parameter name="Substance" id="1825768117" flags="12884906002" factoryID="29">
 						<parameter name="Color" id="1" flags="4295004162">
 							<foldFlags>15</foldFlags>
 						</parameter>
@@ -751,26 +740,10 @@
 					<parameter name="Opacity" id="1044" flags="8606711824" default="1" value="0"/>
 				</parameter>
 				<parameter name="Face" id="1007" flags="8589938706">
-					<parameter name="Color" id="1008" flags="8589971458">
-						<foldFlags>15</foldFlags>
-					</parameter>
 					<parameter name="Opacity" id="1009" flags="8606711810" default="1" value="0"/>
 				</parameter>
-				<parameter name="Outline" id="1011" flags="8589938706">
-					<parameter name="Color" id="1012" flags="8589971458">
-						<foldFlags>15</foldFlags>
-					</parameter>
-				</parameter>
-				<parameter name="Glow" id="1016" flags="8589971474">
-					<parameter name="Color" id="1017" flags="8589971458">
-						<foldFlags>15</foldFlags>
-					</parameter>
-				</parameter>
-				<parameter name="Drop Shadow" id="1020" flags="8589971474">
-					<parameter name="Color" id="1021" flags="8589971458">
-						<foldFlags>15</foldFlags>
-					</parameter>
-				</parameter>
+				<parameter name="Glow" id="1016" flags="8589971474"/>
+				<parameter name="Drop Shadow" id="1020" flags="8589971474"/>
 				<parameter name="Controls" id="201" flags="8589938704">
 					<foldFlags>4</foldFlags>
 					<parameter name="Animate" id="203" flags="8590000144" default="0" value="1"/>
@@ -802,8 +775,8 @@
 					<parameter name="" id="228" flags="8589934610" default="1" value="0"/>
 					<parameter name="" id="236" flags="8589934610" default="1" value="0"/>
 				</parameter>
-				<parameter name="Basic" id="2000" flags="12884938774" factoryID="1">
-					<parameter name="Substance" id="10028" flags="12884906002" factoryID="29">
+				<parameter name="Basic" id="2000" flags="12884938770" factoryID="1">
+					<parameter name="Substance" id="1825768117" flags="12884906002" factoryID="29">
 						<parameter name="Color" id="1" flags="4295004162">
 							<foldFlags>15</foldFlags>
 						</parameter>
@@ -818,26 +791,26 @@
 			<flags>0</flags>
 			<timing in="0 1 1 0" out="596596 120000 1 0" offset="0 1 1 0"/>
 			<foldFlags>0</foldFlags>
-			<baseFlags>268959825</baseFlags>
+			<baseFlags>524368</baseFlags>
 			<parameter name="Properties" id="1" flags="8589938704">
 				<parameter name="Transform" id="100" flags="8589938704">
 					<parameter name="Position" id="101" flags="8589938704">
 						<foldFlags>15</foldFlags>
-						<parameter name="X" id="1" flags="8589934608" default="0" value="-1028.3432023411813"/>
-						<parameter name="Y" id="2" flags="8589934608" default="0" value="654.31067738575746"/>
-						<parameter name="Z" id="3" flags="8589934608" default="0" value="0"/>
+						<parameter name="X" id="1" flags="8606711824" default="0" value="-1028.3432023411813"/>
+						<parameter name="Y" id="2" flags="8606711824" default="0" value="654.31067738575746"/>
+						<parameter name="Z" id="3" flags="8606711824" default="0" value="0"/>
 					</parameter>
 					<parameter name="Rotation" id="109" flags="8589938704">
 						<foldFlags>15</foldFlags>
-						<parameter name="X" id="1" flags="8589934608" default="0" value="0"/>
-						<parameter name="Y" id="2" flags="8589934608" default="0" value="0"/>
-						<parameter name="Z" id="3" flags="8589934608" default="0" value="0"/>
+						<parameter name="X" id="1" flags="8606711824" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="8606711824" default="0" value="0"/>
+						<parameter name="Z" id="3" flags="8606711824" default="0" value="0"/>
 					</parameter>
 					<parameter name="Scale" id="105" flags="8589938704">
 						<foldFlags>15</foldFlags>
-						<parameter name="X" id="1" flags="8589934608" default="1" value="0.92864020778601897"/>
-						<parameter name="Y" id="2" flags="8589934608" default="1" value="1.1663671884372386"/>
-						<parameter name="Z" id="3" flags="8589934608" default="1" value="1"/>
+						<parameter name="X" id="1" flags="8606711824" default="1" value="0.92864020778601897"/>
+						<parameter name="Y" id="2" flags="8606711824" default="1" value="1.1663671884372386"/>
+						<parameter name="Z" id="3" flags="8606711824" default="1" value="1"/>
 					</parameter>
 				</parameter>
 				<parameter name="Lighting" id="230" flags="8589938706">
@@ -859,16 +832,16 @@
 					</parameter>
 					<parameter name="Shape Type" id="100" flags="12884967442" default="5" value="5"/>
 					<parameter name="Closed" id="116" flags="8590000146" default="0" value="1"/>
-					<parameter name="Roundness" id="144" flags="8589934608" default="0" value="21"/>
+					<parameter name="Roundness" id="144" flags="8606711824" default="0" value="21"/>
 					<parameter name="Fill" id="113" flags="8589938705">
 						<foldFlags>131072</foldFlags>
 						<parameter name="Fill Color" id="111" flags="12884906000">
 							<foldFlags>15</foldFlags>
-							<parameter name="Red" id="1" flags="8589934608" default="1" value="0"/>
-							<parameter name="Green" id="2" flags="8589934608" default="1" value="0"/>
-							<parameter name="Blue" id="3" flags="8589934608" default="1" value="0"/>
+							<parameter name="Red" id="1" flags="8606711824" default="1" value="0"/>
+							<parameter name="Green" id="2" flags="8606711824" default="1" value="0"/>
+							<parameter name="Blue" id="3" flags="8606711824" default="1" value="0"/>
 						</parameter>
-						<parameter name="Fill Opacity" id="141" flags="8589934608" default="1" value="0.75"/>
+						<parameter name="Fill Opacity" id="141" flags="8606711824" default="1" value="0.75"/>
 					</parameter>
 					<parameter name="Outline" id="108" flags="8589971472">
 						<foldFlags>131072</foldFlags>
@@ -921,8 +894,8 @@
 					</parameter>
 					<parameter name="Size" id="160" flags="8589938704">
 						<foldFlags>8388619</foldFlags>
-						<parameter name="Width" id="1" flags="12884901904" default="1748.8641510009766" value="1748.8641510009766"/>
-						<parameter name="Height" id="2" flags="12884901904" default="282.64007568359386" value="282.64007568359386"/>
+						<parameter name="Width" id="1" flags="12901679120" default="1748.8641510009766" value="1748.8641510009766"/>
+						<parameter name="Height" id="2" flags="12901679120" default="282.64007568359386" value="282.64007568359386"/>
 					</parameter>
 					<parameter name="Completed" id="157" flags="8589934610" default="0" value="1"/>
 				</parameter>
