@@ -1,11 +1,12 @@
 # Jeff Geerling - YouTube
 
-I currently have two YouTube channels:
+I currently have three YouTube channels:
 
 | Channel | Subscribers |
 | ------- | ----------- |
-| [Jeff Geerling](https://www.youtube.com/c/JeffGeerling) (main channel) | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCR-DXc1voovS8nhAvccRZhg?style=social) |
-| [Geerling Engineering](https://www.youtube.com/c/GeerlingEngineering) (second channel) | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsd6hP-zzIkCpw8XGw7Osyw?style=social) |
+| [Jeff Geerling](https://www.youtube.com/@JeffGeerling) (main channel) | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCR-DXc1voovS8nhAvccRZhg?style=social) |
+| [Geerling Engineering](https://www.youtube.com/@GeerlingEngineering) (second channel) | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsd6hP-zzIkCpw8XGw7Osyw?style=social) |
+| [Level 2 Jeff](https://www.youtube.com/@Level2Jeff) (second channel) | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzgA9CBrIXPtkB2yNTTiy1w?style=social) |
 
 This repository is a home for my YouTube production process, my thoughts on video creation and workflows, and sometimes stores things related to channel videos or series, if the work doesn't fit better in some other repository.
 
