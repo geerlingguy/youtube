@@ -26,27 +26,34 @@ The links below are mostly affiliate links.
 
 ### Hardware
 
+  - A-roll camera: [Sony A7CII](https://amzn.to/3SO4ATn) + [Sony FE 20-70mm f/4 G](https://amzn.to/3SKJsxf)
   - A-roll camera: [Sony a6600](https://amzn.to/3OjtZR1) + [Sony 24mm 1.8](https://amzn.to/3JSBxXg)
   - B-roll camera #1: [Sony a6600](https://amzn.to/3OjtZR1) + [Sony 16-55mm 2.8 G](https://amzn.to/3Ej9Zt0)
   - B-roll camera #2: [iPhone Pro 13](https://www.apple.com/iphone-13-pro/)
   - B-roll Macro lens: [Sony 50mm 2.8 Macro](https://amzn.to/3KPLPcd)
-  - Handheld Vlog camera: [GoPro Hero 10 Black](https://amzn.to/423Vp2M)
-    - [SmallRig Hero 10 Black Cage](https://amzn.to/3BTHJN7)
-    - [Sennheiser MKE 200 mini shotgun mic](https://amzn.to/3OyDSNf)
+  - Handheld Vlog / Timelapse setup:
+    - [Insta360 Ace Pro](https://amzn.to/3X0UX6h) + [aMagisn cage](https://amzn.to/3yzkha4) + [Ulanzi quick release](https://amzn.to/4cr1lYV)
+    - [GoPro Hero 10 Black](https://amzn.to/423Vp2M) + [SmallRig Hero 10 Black Cage](https://amzn.to/3BTHJN7)
     - [GoPro Max Grip + Tripod](https://amzn.to/3orzvJ1)
+    - [Sennheiser MKE 200 mini shotgun mic](https://amzn.to/3OyDSNf)
   - Timelapse/utility camera: [GoPro Hero 7 Black](https://amzn.to/3uOni1n)
-  - Tripod (main): [Manfrotto MT190XPRO3](https://amzn.to/3jIKw2G) + [128RC Fluid head](https://amzn.to/3MeUk0J)
+  - Tripod (studio): [SmallRig AD-01 Heavy-Duty Tripod](https://amzn.to/4cED0z7) + [SmallRig Dolly](https://amzn.to/4dmTKM8)
+  - Tripod (secondary): [Manfrotto MT190XPRO3](https://amzn.to/3jIKw2G) + [128RC Fluid head](https://amzn.to/3MeUk0J)
   - Tripod (secondary): [Manfrotto 3001BN](https://amzn.to/3OhDOyz) + [Manfrotto 494RC2](https://amzn.to/3MdfewW)
   - Motorized slider (for b-roll): [iFootage Shark Slider Nano](https://amzn.to/37VAp7U)
   - Gimbal (primary): [DJI RSC 2 Combo](https://amzn.to/3voBRI7)
   - Gimbal (secondary): [DJI OM5 Smartphone Stabilizer](https://amzn.to/3BWkoup)
   - Preview monitor (a-roll): [Blackmagic Video Assist 3G 7"](https://amzn.to/3xzSQKi)
+  - Preview monitor (b-roll): [Atomos Ninja V](https://amzn.to/3M3YVVp)
   - Teleprompter (a-roll): [Glide Gear TMP75](https://amzn.to/3rXma7F)
   - Bluetooth Remote (for teleprompter): [Satechi R2](https://amzn.to/3xzVgIS)
-  - Preview monitor stand: [Manfrotto PIXI Mini](https://amzn.to/3EjYW2N)
+  - Preview monitor stands: [Manfrotto PIXI Mini](https://amzn.to/3EjYW2N)
   - Microphone: [Sennheiser MKE600](https://amzn.to/3jLpIaN)
   - Preamp: [Symetrix 528E](https://amzn.to/3d0HdSt)
   - USB Audio Interface: [Behringer U-Phoria UMC202HD](https://amzn.to/3jGtYHH)
+  - Microphone (shotgun - handheld): [Sony ECM-G1 Vlogger Shotgun](https://amzn.to/3X2mBzU)
+  - Microphone (shotgun - desk): [Azden SGM-250CX Compact Shotgun](https://amzn.to/3WZpam9) + [Rode SM4-R Rycote Lyre Shockmount](https://amzn.to/4fJCNgM)
+  - Microphone (wireless): [DJI Mic Wireless Set](https://amzn.to/46I7qim)
   - Microphone (wireless): [Rode Wireless Go II](https://amzn.to/3OuP0bm)
   - Microphone (lav): [Rode Lavaliere Go](https://amzn.to/3LaLJfp) x2
   - SD Cards: [Sony TOUGH Series](https://amzn.to/2Z8hOht)
@@ -56,21 +63,26 @@ The links below are mostly affiliate links.
   - Desk Light #2: [Elgato Key Light Air](https://amzn.to/3xxHrKR)
   - Portable audio recorder: [Zoom H6](https://amzn.to/3xKQmZC)
   - Portable lav mic / bodypack: [Zoom F2 Bodypack Recorder](https://amzn.to/3pXAjFV)
+  - Lights: [Amaran P60x](https://amzn.to/4cnaGB8), [Amaran F21x](https://amzn.to/3YKk5PQ), [Amaran 200x](https://amzn.to/3YEtvMH), [Amaran 100x](https://amzn.to/3yrDESt)
+  - Light stands: [Neewer C-stands](https://amzn.to/3yCk3ii) + [Neewer Light Stand with Casters](https://amzn.to/3M175On)
+  - Light modifiers: [Aputure Light Dome II](https://amzn.to/3YBNGuS), [Godox 60cm Softbox](https://amzn.to/4covIzf)
 
 ### Software
 
   - Apple [Final Cut Pro X](https://www.apple.com/final-cut-pro/) (editing)
   - Felt Tip [Sound Studio](https://felttip.com/ss/) (audio recording)
-  - Apple [Photos](https://www.apple.com/ios/photos/) (used to manage photo library for stills)
+  - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) (transcription and subtitling)
+  - Apple [Photos](https://www.apple.com/ios/photos/) (stills photo library)
   - Adobe [Photoshop](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other) (thumbnail creation)
   - Apple [Keynote](https://www.apple.com/keynote/) (illustrations and simple motion graphics)
   - [iShowU Instant](https://www.shinywhitebox.com/ishowu-instant) (screen capture)
-  - [OBS](https://obsproject.com) (streaming)
+  - [OBS](https://obsproject.com) (streaming and capture)
   - [Sublime Text](https://www.sublimetext.com) (writing)
   - [Teleprompter Premium](https://teleprompterpremium.com) (script reading)
   - [Trello](https://trello.com/) (project organization)
-  - [Hubstaff](https://hubstaff.com) (vendor invoicing)
-  - [Social Blade](https://socialblade.com) (external analytics)
+  - [Square](https://squareup.com/us/en) (vendor invoicing)
+  - [Squarespace](https://www.squarespace.com) (merch store hosting)
+  - [Viewstats](https://www.viewstats.com) (external analytics)
   - [Hindenburg Field Recorder](https://hindenburg.com/products/hindenburg-field-recorder) (mobile audio recording)
 
 ## My philosophy (why I'm making videos)
@@ -93,7 +105,7 @@ I can vividly recall two teachers in high school who ignited my passion for writ
 
 I've always wanted to teach like they did.
 
-And with this YouTube channel, I can do that—in ways I think many teachers never could've, to new and diverse global audiences.
+And with this YouTube channel, I can do that—in ways many teachers never could, to new and diverse global audiences.
 
 Let me hop down from my high horse, though... if you've watched my videos, you can see I'm not always teaching.
 
@@ -117,7 +129,9 @@ I _never_ do paid 'product showcase' videos (where a sponsor pays for a video hi
 
 I _do_ accept review samples, and sometimes devote a video to a particular product if I find it interesting, but I never accept _any_ payment for those videos, nor do I give the company that sent the product _any_ input into the creative process.
 
-They are seeing the video for the first time when it goes live on the channel, just like the rest of my audience.
+I also refuse vendor referral / revenue sharing agreements, as I feel that creates a perverse incentive.
+
+Vendors are watching the video the first time when it goes live on the channel, just like the rest of my audience.
 
 ### Pricing
 
@@ -154,7 +168,9 @@ I update my sponsorship rate regularly, based on the average view count for all 
   10. **Pickups**: During the editing process, I note any timestamps where an extra insert (like a motorized dolly shot of something) would spice up the video. Then I spend a few hours gathering the missing pickup shots that I didn't get in my initial B-roll acquisition. Then I incorporate the pickups into the video.
   11. **Final Review**: I watch through the entire video, full screen, both with and without headphones. I listen for any audio gaffes, make sure I have decent transitions, and try to catch any flaws in titling, effects, and overlays. After I'm happy with the edit, I export the video using Final Cut Pro's built-in Share tool.
   12. **Metadata**: While the video is exporting, I work on metadata, and choose my final title and thumbnail idea. Then I fill in a description, go through the video and translate my script sections to timestamps, add relevant tags, and note any times when I want to add cards to the video.
-  13. **Upload**: The end is in sight. I upload the video to YouTube, copy and paste all the metadata over into YouTube, and schedule the video for the appropriate day and time.
+
+       Because YouTube's built-in closed captioning is a train wreck for technical content, I will also run the video through Whisper ([here's how I do it](https://www.jeffgeerling.com/blog/2023/transcribing-recorded-audio-and-video-text-using-whisper-ai-on-mac)), and hand-edit the final transcription before submitting it as the video's English language subtitles.
+  13. **Upload**: The end is in sight. I upload the video to YouTube, copy and paste all the metadata over into YouTube, upload the subtitles, and schedule the video for the appropriate day and time.
   14. **Thumbnail**: Sometimes I'll have already worked on a thumbnail if I was able to think of a good idea earlier in the process. But usually between the time I upload the video and it's publish date, I'll set up my greenscreen and some lights, and either use my camera remote and self-timer or my wife's assistance to get ten or twenty different thumbnail image options. I try to minimize 'YouTube Face', but I also know without a certain amount of clickability, my video will get buried. I aim for a happy medium of 'mildly clickbait' expressions, while not embarrassing myself—at least not _too_ much.
   15. **Blog Post**: After uploading the thumbnail, I usually write a _completely separate_ blog post on the topic. Sometimes I'll have already written the blog post's outline during the Script Writing process, other times I'll start from scratch.
   
@@ -199,10 +215,10 @@ I use music and sound effects sparingly, so I try to make my vocal tracks as goo
 My minimum processing for a clip in Final Cut Pro X looks like this:
 
   - **Loudness** enhancement enabled (light compression)
-    - Amount 40%
-    - Uniformity 6%
-  - **Voice Isolation** (AI assisted) enabled
-    - Adjusted based on environment, if necessary
+    - Amount 35%
+    - Uniformity 4%
+  - **Voice Isolation** (AI assisted) enabled, if necessary
+    - Adjusted based on environment
   - **Limiter** (FCP Effect)
     - Release 210 ms
     - Output -0.5 dB
@@ -210,7 +226,7 @@ My minimum processing for a clip in Final Cut Pro X looks like this:
     - Mode Legacy (Soft Knee 'ON')
     - Gain (adjust as fit to push peaks between -6 and 0 dB)
   - **Volume**
-    - Adjust if needed so peaks hit near 0 dB (avg between -6 dB and 0 dB)
+    - Adjust if needed so peaks hit near 0 dB (avg just over -6 dB)
 
 ### Recording devices
 
