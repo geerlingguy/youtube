@@ -22,7 +22,7 @@ I have Crohn's disease and a family I support, and I am thankful to be able to d
 
 Many people ask about what camera I use, what software I use to edit, etc. — instead of constantly emailing them back, I thought I'd keep a current listing of the equipment I use in my video production workflow.
 
-The links below are mostly affiliate links.
+The links below are mostly affiliate links. I earn for qualifying purchases.
 
 ### Hardware
 
@@ -47,6 +47,7 @@ The links below are mostly affiliate links.
   - Preview monitor (b-roll): [Atomos Ninja V](https://amzn.to/3M3YVVp)
   - Teleprompter (a-roll): [Glide Gear TMP75](https://amzn.to/3rXma7F)
   - Bluetooth Remote (for teleprompter): [Satechi R2](https://amzn.to/3xzVgIS)
+  - Bluetooth Remote (for Sony cameras): [JJC Wireless Bluetooth Remote](https://amzn.to/4a82Knv)
   - Preview monitor stands: [Manfrotto PIXI Mini](https://amzn.to/3EjYW2N)
   - Microphone: [Sennheiser MKE600](https://amzn.to/3jLpIaN)
   - Preamp: [Symetrix 528E](https://amzn.to/3d0HdSt)
@@ -95,7 +96,7 @@ There's a saying:
 
 That saying is complete and utter BS.
 
-There are doers, and there are teachers, and some of the same requirements cross over, while others do not. In early 2021, I quit a _very_ lucrative software development career and more than halved my annual income to devote my full work week to writing and creating my books, blog, open source projects, and videos.
+There are doers, and there are teachers, and some of the same requirements cross over, while others do not. In early 2021, I quit a _very_ lucrative software development career and more than halved my annual income to work on my books, blog, open source projects, and videos.
 
 And I can say, definitively: to be able to teach _well_, you not only have to know how to _do_. You have to know _why_ you do, how _not_ to do, and the entire _history_ of whatever task is being done.
 
@@ -115,7 +116,7 @@ So I accept paid sponsorship (either via trade or direct payment).
 
 ## Sponsorships
 
-I accept sponsorships sparingly. Every sponsor I've had on the channel is a company or small business I've interacted with on a personal level—either through direct communication with owners or personal use or interest in the products they offer.
+I accept sponsorships sparingly. And I will _never_ do a paid video (where someone pays me to say certain things in a dedicated video). Every sponsor I've had on the channel is a company or small business I've interacted with on a personal level—either through direct communication with owners or personal use or interest in the products they offer.
 
 ### Sponsor Vetting
 
@@ -123,7 +124,7 @@ I'm picky about corporate sponsors and will never promote something I feel is ei
 
 ### Paid Videos / Product Showcase Videos
 
-I _never_ do paid 'product showcase' videos (where a sponsor pays for a video highlighting their own talking points).
+**I _never_ do paid videos** like 'product showcases', where a sponsor pays for a video highlighting their own talking points.
 
 ### Review Videos
 
@@ -132,6 +133,14 @@ I _do_ accept review samples, and sometimes devote a video to a particular produ
 I also refuse vendor referral / revenue sharing agreements, as I feel that creates a perverse incentive.
 
 Vendors are watching the video the first time when it goes live on the channel, just like the rest of my audience.
+
+### Review Sample Policy
+
+If you are a vendor and wish to send a product for review, please note the following:
+
+  - **Content Decisions**: I offer no guarantee any posts, videos, or even mentions of your product will ever be made. As stated earlier, I also **do not publish any form of paid content**.
+  - **Testing Risks**: Product testing sometimes involves destructive testing, and I do not guarantee tested items will be free of damage or wear.
+  - **Non-Return Policy**: Except in rare circumstances (e.g. exotic or one-of-a-kind hardware), I cannot return test samples after testing is complete.
 
 ### Pricing
 
