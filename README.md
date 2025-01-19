@@ -142,6 +142,18 @@ If you are a vendor and wish to send a product for review, please note the follo
   - **Testing Risks**: Product testing sometimes involves destructive testing, and I do not guarantee tested items will be free of damage or wear.
   - **Non-Return Policy**: Except in rare circumstances (e.g. exotic or one-of-a-kind hardware), I cannot return test samples after testing is complete.
 
+### Affiliate Links and Referral Programs
+
+I actively participate in Amazon Affiliates, and in the past participated in a couple other affiliate programs.
+
+_However_, I do not participate in any sponsor affiliate programs, or any revenue sharing agreements for the products and projects I either advertise directly, or talk about in any of my videos.
+
+Tying financial incentives to sponsors directly could introduce a conflict of interest, especially if a competitor's product comes up, and I _don't_ have an affiliate agreement for _that_ product.
+
+That is why I'm comfortable using Amazon affiliates. It is a small but not-insignificant income stream, and it allows me to link to any vendor's products, not just ones who I've officially partnered with in some for or another.
+
+There is a significant amount of money left on the table, doing it this way, but I am more comfortable not tying myself financially on a long-term basis to any company that sponsors my channel or sends any equipment for testing or review.
+
 ### Pricing
 
 The tech space is flooded with thousands of channels churning out paid review content and low-effort videos.
