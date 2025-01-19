@@ -118,6 +118,8 @@ So I accept paid sponsorship (either via trade or direct payment).
 
 I accept sponsorships sparingly. And I will _never_ do a paid video (where someone pays me to say certain things in a dedicated video). Every sponsor I've had on the channel is a company or small business I've interacted with on a personal level—either through direct communication with owners or personal use or interest in the products they offer.
 
+For a _full list_ of sponsors and vendors I have worked with, please see [Sponsor and Vendor Relationships](Sponsors.md).
+
 ### Sponsor Vetting
 
 I'm picky about corporate sponsors and will never promote something I feel is either scammy or wouldn't be a good value for viewers who might click through the sponsor's link.
