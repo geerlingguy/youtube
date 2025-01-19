@@ -87,7 +87,15 @@ DFRobot has provided a few small Raspberry Pi Compute Module-based boards for te
 
 > Type: Equipment for test/review, compensation for stolen voice
 
-TODO
+I received a CrowPi2 for review early in my YouTube channel's history, and generally have had a good relationship with Elecrow. Their unauthorized use of my cloned voice in 2024 soured that relationship, but we found an acceptable compromise involving compensation and a donation to charity.
+
+## Flexispot
+
+> Type: Paid sponsorship
+
+Some time after purchasing two of their small height-adjustable desks on Amazon, Flexispot reached out for a sponsorship on a video while I was building out my office. I accepted a desk and chair on trade, along with a reduced sponsorship rate on one video.
+
+Working with them was fine, but they do tend to reach out multiple times a year for various campaigns, with different representatives each time (sometimes multiple emails in the same week!). They were fine, and their hardware works great (I've since bought two more Flexispot desks), but they can be a little aggressive in their pitch!
 
 ## GeeekPi (DeskPi / 52Pi)
 
