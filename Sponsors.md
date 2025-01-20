@@ -191,6 +191,12 @@ There were no obligations (a very rare thing indeed), but I wanted to mention th
 
 Their soldering irons aren't the cheapest in the world, but they are high quality and my Dad still uses the one he bought when I was a kid! Now I have one at the studio, and one at home, and for any quick job where I just need an iron for a few seconds or a minute, I grab the ISO-TIP.
 
+## Keychron
+
+> Type: Equipment for test/review
+
+Keychron provided one of their mechanical keyboards for testing and review.
+
 ## KIOXIA
 
 > Type: Equipment for test/review
@@ -382,6 +388,12 @@ Sunfounder provided a Pironman case for testing and review.
 Surfshark has been a long-term sponsor of the channel. Despite people painting VPNs as evil businesses, I only accepted Surfshark's sponsorship after a bit of research—they don't seem to have any shady past history, they don't participate in the egregious scammy behavior some VPNs do, and they have been easy to work with and very accepting of my ideas for their integrations, even including _a video about how to use your own Wireguard VPN instead of something like Surfshark!_.
 
 I am sometimes a bit critical of their marketing regarding security, or the upsells they promote for bundled services which may or may not be useful to people who need their primary VPN service... but as someone who has tested a few VPN providers on and off for years, I settled on Surfshark—before they started sponsoring me. They have a useful service, and I'm happy to pay for it.
+
+## System76
+
+> Type: Equipment for test/review
+
+System76 provided a Thelio Astra workstation and Launch keyboard for testing and review. Their engineers also helped with some motherboard and fan controller firmware issues as I was testing their Astra pre-launch, and provided a few additional upgrades for further testing.
 
 ## Timebeat
 
