@@ -26,7 +26,7 @@ Alftel develops a number of specialized (and sometimes quite expensive!) boards 
 
 Ampere Computing has aided my work testing and reviewing various arm64 applications, most notably providing hardware through their partner companies at various points.
 
-I currently have a number of Ampere-based arm64 test systems on somewhat-permanent loan:
+I currently have the following test systems provided for review and ongoing arm64 development:
 
   - ADLINK Ampere Altra Dev Workstation
   - ADLINK Ampere Altra Dev Kit
