@@ -12,9 +12,11 @@ Sponsors and vendors are listed in alphabetical order.
 
 > Type: Equipment
 
-45Drives provided a Storinator XL60, as well as 60 20 TB Seagate Exos Hard Drives, in support of my 'Petabyte Pi' project (and follow-up videos).
+45Drives provided Storinator and 45Homelab hardware in support of projects like 'Petabyte Pi' and 'ARM NAS' videos.
 
 45Drives also hosted me (providing boarding and transportation) for their 2023 Creator Summit in Sydney, Nova Scotia.
+
+They have been active contributors and promotors of open source and DIY Homelab solutions, and many of their staff have been helpful in teaching me about open source storage solutions, so I've enjoyed working with them on projects where they have no hardware involvement as well, like my 'is a Pigeon faster than Fiber Internet' video.
 
 ## Alftel
 
