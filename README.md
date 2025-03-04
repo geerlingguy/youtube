@@ -8,7 +8,9 @@ I currently have three YouTube channels:
 | [Geerling Engineering](https://www.youtube.com/@GeerlingEngineering) (second channel) | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsd6hP-zzIkCpw8XGw7Osyw?style=social) |
 | [Level 2 Jeff](https://www.youtube.com/@Level2Jeff) (second channel) | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzgA9CBrIXPtkB2yNTTiy1w?style=social) |
 
-This repository is a home for my YouTube production process, my thoughts on video creation and workflows, and sometimes stores things related to channel videos or series, if the work doesn't fit better in some other repository.
+My video content is also uploaded to the [Jeff Geerling Floatplane](https://www.floatplane.com/channel/JeffGeerling), and you can find links to _all_ my social profiles on my [About page](https://www.jeffgeerling.com/about#profiles).
+
+This repository is a home for my production process, my thoughts on video creation and workflows, and sometimes stores things related to channel videos or series, if the work doesn't fit better in some other repository.
 
 Since I started my work in computing, I loved the open source philosophy, and I develop almost every line of code in the open. This repo is an extension of that philosophy.
 
