@@ -241,6 +241,12 @@ I have separately purchased 5 other LTT Screwdrivers, including the two I used i
 
 I was going to purchase a full-size rack for the new studio buildout, but found out there was a manufacturer of rack solutions _in my home city_ who had just introduced a new line of datacenter racks. I worked with them to take a tour of their manufacturing plant, of which I recorded many parts. This may have been the only time in my channel's history where a sponsor integration didn't see any dip from people using SponsorBlock!
 
+## Meinberg
+
+> Type: Paid sponsorship
+
+Meinberg sponsored a trip to the 2025 NAB for the Geerling Engineering channel, and one video on that channel covering time and timing in broadcast media.
+
 ## Meta (Facebook)
 
 > Type: Equipment for test/review
