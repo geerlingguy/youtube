@@ -268,6 +268,8 @@ I didn't think I'd ever have to track this stuff, but seeing as how just _two_ c
 | Strike type | Video | Published | Strike applied | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | Harmful content | [Jellyfin on NAS](https://github.com/geerlingguy/youtube/issues/13) | Oct 2022 | Oct 2024 | ✅ Appeal granted |
-| Harmful content | [LibreELEC on Pi](https://github.com/geerlingguy/youtube/issues/12) | May 2024 | June 2025 | ❌ Appeal rejected |
+| Harmful content | [LibreELEC on Pi](https://github.com/geerlingguy/youtube/issues/12) | May 2024 | June 2025 | ✅ Appeal granted[^second-appeal] |
 
 So far, as of 2025, the trend seems to be "don't tell people how to self-host their own media libraries"—even if there is no mention of illegal media acquisition tools whatsoever!
+
+[^second-appeal]: My first appeal to the automated process was rejected within 6 hours. After raising a bit of a stink about it on social media, someone at YouTube reached out a day later and re-instated the video after a second manual review.
