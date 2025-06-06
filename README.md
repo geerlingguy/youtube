@@ -265,9 +265,9 @@ In the field, I use a variety of mics, depending on the situation. I will put a 
 
 I didn't think I'd ever have to track this stuff, but seeing as how just _two_ content strikes results in a YouTube channel being terminated permanently, I figure it is important to track the strikes I receive somewhere.
 
-| Type of strike | Video | Published | Strike applied | Status |
-| --- | --- | --- | --- | --- |
-| Dangerous or harmful content | [Jellyfin on NAS](https://github.com/geerlingguy/youtube/issues/13) | Oct 2022 | Oct 2024 | ✅ Appeal granted |
-| Dangerous or harmful content | [LibreELEC on Pi](https://github.com/geerlingguy/youtube/issues/12) | May 2024 | June 2025 | ❌ Appeal rejected |
+| Strike type | Video | Published | Strike applied | Status |
+| :-- | :-- | :-- | :-- | :-- |
+| Harmful content | [Jellyfin on NAS](https://github.com/geerlingguy/youtube/issues/13) | Oct 2022 | Oct 2024 | ✅ Appeal granted |
+| Harmful content | [LibreELEC on Pi](https://github.com/geerlingguy/youtube/issues/12) | May 2024 | June 2025 | ❌ Appeal rejected |
 
 So far, as of 2025, the trend seems to be "don't tell people how to self-host their own media libraries"—even if there is no mention of illegal media acquisition tools whatsoever!
