@@ -30,7 +30,7 @@ The links below are mostly affiliate links. I earn for qualifying purchases.
 
   - A-roll camera: [Sony A7CII](https://amzn.to/3SO4ATn) + [Sony FE 20-70mm f/4 G](https://amzn.to/3SKJsxf)
   - A-roll camera: [Sony a6600](https://amzn.to/3OjtZR1) + [Sony 24mm 1.8](https://amzn.to/3JSBxXg)
-  - B-roll camera #1: [Sony a6600](https://amzn.to/3OjtZR1) + [Sony 16-55mm 2.8 G](https://amzn.to/3Ej9Zt0)
+  - B-roll camera #1: [Sony a6700](https://amzn.to/3UVgwmF) + [Sony 16-55mm 2.8 G](https://amzn.to/3Ej9Zt0)
   - B-roll camera #2: [iPhone 16 Pro](https://www.apple.com/iphone-16-pro/)
   - B-roll Macro lens: [Sony 50mm 2.8 Macro](https://amzn.to/3KPLPcd)
   - Handheld Vlog / Timelapse setup:
