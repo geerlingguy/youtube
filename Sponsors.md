@@ -165,6 +165,10 @@ After seeing the 'Baby North' Raspberry Pi case design in a Paul's Hardware vide
 
 I still wish they made an official Pi case, though. It'd be amazing having their beautiful industrial design for a desktop Pi.
 
+## Framework
+
+For the Framework Desktop launch, I accepted four Framework Mainboards to build and test a local LLM cluster. I have also been in contact about testing some of their other products, upon viewer request.
+
 ## GeeekPi (DeskPi / 52Pi)
 
 > Type: Equipment for test/review
