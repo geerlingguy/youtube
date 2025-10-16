@@ -77,6 +77,12 @@ ArduCam makes a variety of camera sensors and hardware compatible with the Raspb
 
 Some of their cameras and Pi products are used in other projects I build (for example, an all-sky camera, or a CinePi build).
 
+## Arduino
+
+> Type: Equipment for test/review
+
+Arduino sent an Uno Q (made in partnership with Qualcomm) for review and testing.
+
 ## Arm
 
 > Type: Paid sponsorship, travel reimbursement
@@ -133,6 +139,12 @@ A number of other Homelab-related YouTube channels also picked up on it, and I w
 
 CutiePi sent a CutiePi tablet based on the Pi CM4, for my testing and review.
 
+## DeepComputing
+
+> Type: Equipment for test/review
+
+DeepComputing sent a DC-ROMA RISC-V AI PC (Framework 13" laptop), for my testing and review.
+
 ## DFRobot
 
 > Type: Equipment for test/review
@@ -167,6 +179,8 @@ I still wish they made an official Pi case, though. It'd be amazing having their
 
 ## Framework
 
+> Type: Equipment for test/review
+
 For the Framework Desktop launch, I accepted four Framework Mainboards to build and test a local LLM cluster. I have also been in contact about testing some of their other products, upon viewer request.
 
 ## GeeekPi (DeskPi / 52Pi)
@@ -178,6 +192,12 @@ I've been in contact with GeeekPi/DeskPi/52Pi quite often, as their products oft
 They have provided a few mini racks and accessories, as well as one Super6C cluster + enclosure, and a number of small Pi HATs, Pi cases, and Compute Module boards for testing and review.
 
 They also provided a mini rack and set of Raspberry Pis for a giveaway in early 2025.
+
+## GL.iNet
+
+> Type: Equipment for test/review
+
+GL.iNet provided each of their IP KVMs for testing.
 
 ## HAILO
 
@@ -452,3 +472,11 @@ Like many Kickstarter projects, the difference between small scale beta module p
 My work with Uptime Lab's Compute Blade (which I'm still excited to recieve... someday) has given me a little more pause when I talk about anything using crowd funding. If I talk about any crowdfunded projects now, I lead with multiple warnings that you might not even get the thing, ever!
 
 I have backed a number of projects which never went to production, and I know that's part of the gamble with hardware startups! But some people don't, and they feel betrayed if they are led to believe they're 'buying' something by backing it. I try to do as much as I can to dispell that myth, but it's an ongoing problem in the hardware space.
+
+## Waveshare
+
+> Type: Equipment for test/review
+
+Waveshare regularly sends new products for feedback. I generally don't review them or feature them on my channel, but every once in a while, one appears in a project I'm working on.
+
+I purchase a ton from Waveshare, too. They have a ton of useful electronics, displays, HATs, adapters, and accessories for the type of projects I work on.
