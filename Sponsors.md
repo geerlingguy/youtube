@@ -291,6 +291,12 @@ They have been a very reliable and easy to work with sponsor, typically allowing
 
 Milk-V has provided a number of their RISC-V SBCs and SoMs for testing and review.
 
+## Minisforum
+
+> Type: Equipment for test/review
+
+Minisforum provided an MS-R1 unit for testing and review.
+
 ## Mirkotronics
 
 > Type: Equipment for test/review
