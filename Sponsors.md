@@ -22,19 +22,6 @@ They have been active contributors and promotors of open source and DIY Homelab 
 
 Alftel develops a number of specialized (and sometimes quite expensive!) boards for RF testing, and I was provided two of them, along with some wireless modules, to perform WiFi and other PCI Express-based experiments on the Pi.
 
-## Ampere Computing (+ ADLINK, + System76)
-
-> Type: Equipment for test/review
-
-Ampere Computing has aided my work testing and reviewing various arm64 applications, most notably providing hardware through their partner companies at various points.
-
-I currently have the following test systems provided for review and ongoing arm64 development:
-
-  - ADLINK Ampere Altra Dev Workstation
-  - ADLINK Ampere Altra Dev Kit
-  - System76 Thelio Astra Workstation
-  - Supermicro AmpereOne 2U Server
-
 ## AirGradient
 
 > Type: Equipment for test/review
@@ -51,6 +38,19 @@ I reached out to Ambedded after a user commented on their unique Mars 400 storag
 
 Their team was passionate about distributed Ceph storage, and provided a great deal of help setting up the Mars 400, as well as general Ceph guidance.
 
+## Ampere Computing (+ ADLINK, + System76)
+
+> Type: Equipment for test/review
+
+Ampere Computing has aided my work testing and reviewing various arm64 applications, most notably providing hardware through their partner companies at various points.
+
+I currently have the following test systems provided for review and ongoing arm64 development:
+
+  - ADLINK Ampere Altra Dev Workstation
+  - ADLINK Ampere Altra Dev Kit
+  - System76 Thelio Astra Workstation
+  - Supermicro AmpereOne 2U Server
+
 ## Ansible (by Red Hat / IBM)
 
 > Type: Channel for book sales
@@ -62,6 +62,12 @@ Ansible provided space for me to sell my book at an early AnsibleFest conference
 > Type: Equipment for test/review
 
 Apcsilmic sent an arm64 Dot 1 Mini PC running Windows 11 for review.
+
+## Apple
+
+> Type: Loaned equipment for test/review
+
+Apple provided four M3 Ultra Mac Studios to test for clustered RDMA over Thunderbolt performance in macOS 26.2, using applications like Exo. The Macs were provided on short term loan.
 
 ## Arctic
 
@@ -144,6 +150,12 @@ CutiePi sent a CutiePi tablet based on the Pi CM4, for my testing and review.
 > Type: Equipment for test/review
 
 DeepComputing sent a DC-ROMA RISC-V AI PC (Framework 13" laptop), for my testing and review.
+
+## Dell
+
+> Type: Equipment for test/review
+
+Dell provided a set of two Dell Pro Max with GB10 mini desktop computers for LLM testing on the Nvidia DGX Spark platform. They also provided power supplies and accessories used in cluster testing.
 
 ## DFRobot
 
