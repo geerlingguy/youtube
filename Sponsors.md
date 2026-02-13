@@ -510,3 +510,9 @@ I have backed a number of projects which never went to production, and I know th
 Waveshare regularly sends new products for feedback. I generally don't review them or feature them on my channel, but every once in a while, one appears in a project I'm working on.
 
 I purchase a ton from Waveshare, too. They have a ton of useful electronics, displays, HATs, adapters, and accessories for the type of projects I work on.
+
+## Werewolf
+
+> Type: Equipment for test/review
+
+Werewolf sent a couple kits of their VFLEX USB-C power accessories for testing and review. I have used them in a couple of my smaller projects, and featured them in a brief video on Level 2 Jeff.
