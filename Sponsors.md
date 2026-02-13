@@ -219,6 +219,12 @@ When they were launching their AI products for the Raspberry Pi (and even before
 
 They also provided a couple of their Hailo products for early testing, but never requested any mention or review. I only mentioned their products on the channel once Raspberry Pi launched their own 'AI kit', which included a Hailo AI processor.
 
+## Hugging Face
+
+> Type: Equipment for test/review
+
+Hugging Face and Pollen Robotics sent a Reachy Mini (Wireless) for testing and review.
+
 ## ISO-TIP
 
 > Type: Equipment for test/review
