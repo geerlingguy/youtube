@@ -327,6 +327,12 @@ Mirkotronics provided a MirkoPC for testing with the Raspberry Pi Compute Module
 
 MNT Research loaned me an MNT Reform Laptop for testing and review. I shipped the laptop back after I had finished my review, and look forward to working with them again, if one of my projects aligns with their products. I was impressed by the depth of their open source designs, including full system schematics in the box!
 
+## Mono
+
+> Type: Equipment for test/review
+
+Mono sent me a prototype version of the Gateway router for testing in partnership with Serve The Home. I also pre-ordered and fully paid for a Gateway Router (developer edition) independent of my testing of the pre-production unit they sent.
+
 ## MyElectronics.nl
 
 > Type: Equipment for test/review
