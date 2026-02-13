@@ -20,74 +20,6 @@ Please consider sponsoring my work on [GitHub Sponsors](https://github.com/spons
 
 I have Crohn's disease and a family I support, and I am thankful to be able to do the work I do with the support of people who've liked my blog, open source projects, or videos.
 
-## Equipment
-
-Many people ask about what camera I use, what software I use to edit, etc. — instead of constantly emailing them back, I thought I'd keep a current listing of the equipment I use in my video production workflow.
-
-The links below are mostly affiliate links. I earn for qualifying purchases.
-
-### Hardware
-
-  - A-roll camera: [Sony A7CII](https://amzn.to/3SO4ATn) + [Sony FE 20-70mm f/4 G](https://amzn.to/3SKJsxf)
-  - A-roll camera: [Sony a6600](https://amzn.to/3OjtZR1) + [Sony 24mm 1.8](https://amzn.to/3JSBxXg)
-  - B-roll camera #1: [Sony a6700](https://amzn.to/3UVgwmF) + [Sony 16-55mm 2.8 G](https://amzn.to/3Ej9Zt0)
-  - B-roll camera #2: [iPhone 16 Pro](https://www.apple.com/iphone-16-pro/)
-  - B-roll Macro lens: [Sony 50mm 2.8 Macro](https://amzn.to/3KPLPcd)
-  - Handheld Vlog / Timelapse setup:
-    - [Insta360 Ace Pro](https://amzn.to/3X0UX6h) + [aMagisn cage](https://amzn.to/3yzkha4) + [Ulanzi quick release](https://amzn.to/4cr1lYV)
-    - [GoPro Hero 10 Black](https://amzn.to/423Vp2M) + [SmallRig Hero 10 Black Cage](https://amzn.to/3BTHJN7)
-    - [GoPro Max Grip + Tripod](https://amzn.to/3orzvJ1)
-    - [Sennheiser MKE 200 mini shotgun mic](https://amzn.to/3OyDSNf)
-  - Tripod (studio): [SmallRig AD-01 Heavy-Duty Tripod](https://amzn.to/4cED0z7) + [SmallRig DH12 Fluid Head](https://amzn.to/3TEatST) + [SmallRig Dolly](https://amzn.to/4dmTKM8)
-  - Tripod (secondary): [Manfrotto MT190XPRO3](https://amzn.to/3jIKw2G) + [128RC Fluid head](https://amzn.to/3MeUk0J)
-  - Tripod (secondary): [Manfrotto 3001BN](https://amzn.to/3OhDOyz) + [Manfrotto 494RC2](https://amzn.to/3MdfewW)
-  - Tripod (travel): [ULANZI + COMAN Portable Carbon Fiber Tripod](https://amzn.to/40nM0Fh)
-  - Motorized slider (for b-roll): [iFootage Shark Slider Nano](https://amzn.to/37VAp7U)
-  - Gimbal: [DJI RSC 2 Combo](https://amzn.to/3voBRI7) (rarely used)
-  - Preview monitor (primary): [Blackmagic Video Assist 3G 7"](https://amzn.to/3xzSQKi)
-  - Preview monitor (secondary): [Atomos Ninja V](https://amzn.to/3M3YVVp)
-  - Teleprompter (a-roll): [Glide Gear TMP75](https://amzn.to/3rXma7F)
-  - Bluetooth Remote (for teleprompter): [Satechi R2](https://amzn.to/3xzVgIS)
-  - Bluetooth Remote (for Sony cameras): [JJC Wireless Bluetooth Remote](https://amzn.to/4a82Knv)
-  - Preview monitor stands: [Manfrotto PIXI Mini](https://amzn.to/3EjYW2N)
-  - Microphone: [Sennheiser MKE600](https://amzn.to/3jLpIaN)
-  - Preamp: [Symetrix 528E](https://amzn.to/3d0HdSt)
-  - USB Audio Interface: [Behringer U-Phoria UMC202HD](https://amzn.to/3jGtYHH)
-  - Microphone (shotgun - handheld): [Sony ECM-G1 Vlogger Shotgun](https://amzn.to/3X2mBzU)
-  - Microphone (shotgun - desk): [Azden SGM-250CX Compact Shotgun](https://amzn.to/3WZpam9) + [Rode SM4-R Rycote Lyre Shockmount](https://amzn.to/4fJCNgM)
-  - Microphone (wireless): [DJI Mic Wireless Set](https://amzn.to/46I7qim)
-  - Microphone (wireless): [Rode Wireless Go II](https://amzn.to/3OuP0bm)
-  - Microphone (lav): [Rode Lavaliere Go](https://amzn.to/3LaLJfp) x2
-  - SD Cards: [Sony TOUGH Series](https://amzn.to/2Z8hOht)
-  - Acoustic Treatment: [Owens Corning 703 Acoustic Insulation](https://amzn.to/3qhZE8U)
-  - HDMI Capture Interface (primary): [Elgato 4K X](https://amzn.to/44qpyga)
-  - HDMI Capture Interface (streaming): [Elgato Cam Link 4K](https://amzn.to/3qea0qp)
-  - Desk Light #1: [Elgato Key Light](https://amzn.to/3q9ZmG9)
-  - Desk Light #2: [Elgato Key Light Air](https://amzn.to/3xxHrKR)
-  - Portable audio recorder: [Zoom H6](https://amzn.to/3xKQmZC)
-  - Portable lav mic / bodypack: [Zoom F2 Bodypack Recorder](https://amzn.to/3pXAjFV)
-  - Lights: [Amaran P60x](https://amzn.to/4cnaGB8), [Amaran F21x](https://amzn.to/3YKk5PQ), [Amaran 200x](https://amzn.to/3YEtvMH), [Amaran 100x](https://amzn.to/3yrDESt), [SmallRig P200](https://amzn.to/4k7yRHk)
-  - Light stands: [Neewer C-stands](https://amzn.to/3yCk3ii), [Neewer Light Stand with Casters](https://amzn.to/3M175On), [freesea Carbon Fiber Light Stand](https://amzn.to/3Icelbg), [Manfrotto 5001B Nano Stand](https://amzn.to/4lha4Se)
-  - Light modifiers: [Aputure Light Dome II](https://amzn.to/3YBNGuS), [Godox 60cm Softbox](https://amzn.to/4covIzf)
-
-### Software
-
-  - Apple [Final Cut Pro X](https://www.apple.com/final-cut-pro/) (editing)
-  - Felt Tip [Sound Studio](https://felttip.com/ss/) (audio recording)
-  - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) (transcription and subtitling)
-  - Apple [Photos](https://www.apple.com/ios/photos/) (stills photo library)
-  - Adobe [Photoshop](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other) (thumbnail creation)
-  - Apple [Keynote](https://www.apple.com/keynote/) (illustrations and simple motion graphics)
-  - [iShowU V6](https://www.shinywhitebox.com/ishowu-v6) (screen capture)
-  - [OBS](https://obsproject.com) (streaming and capture)
-  - [Sublime Text](https://www.sublimetext.com) (writing)
-  - [Teleprompter Premium](https://teleprompterpremium.com) (script reading)
-  - [Trello](https://trello.com/) (project organization)
-  - [Square](https://squareup.com/us/en) (vendor invoicing)
-  - [Squarespace](https://www.squarespace.com) (merch store hosting)
-  - [Viewstats](https://www.viewstats.com) (external analytics)
-  - [Hindenburg Field Recorder](https://hindenburg.com/products/hindenburg-field-recorder) (mobile audio recording)
-
 ## My philosophy (why I'm making videos)
 
 I've always wanted to teach.
@@ -169,6 +101,74 @@ As such, many of my videos—even on more mundane topics—are watched by a much
 I have a _fixed_ paid sponsorship rate based on my channel's CPM, or Cost Per Mille (cost per thousand views), and the CPM used in this calculation is currently $15.00 USD.
 
 I update my sponsorship rate regularly, based on the average view count for all long-form videos posted in the past 90 days. The rate is negotiable depending on the specific video and sponsorship.
+
+## Equipment
+
+Many people ask about what camera I use, what software I use to edit, etc. — instead of constantly emailing them back, I thought I'd keep a current listing of the equipment I use in my video production workflow.
+
+The links below are mostly affiliate links. I earn for qualifying purchases.
+
+### Hardware
+
+  - A-roll camera: [Sony A7CII](https://amzn.to/3SO4ATn) + [Sony FE 20-70mm f/4 G](https://amzn.to/3SKJsxf)
+  - A-roll camera: [Sony a6600](https://amzn.to/3OjtZR1) + [Sony 24mm 1.8](https://amzn.to/3JSBxXg)
+  - B-roll camera #1: [Sony a6700](https://amzn.to/3UVgwmF) + [Sony 16-55mm 2.8 G](https://amzn.to/3Ej9Zt0)
+  - B-roll camera #2: [iPhone 16 Pro](https://www.apple.com/iphone-16-pro/)
+  - B-roll Macro lens: [Sony 50mm 2.8 Macro](https://amzn.to/3KPLPcd)
+  - Handheld Vlog / Timelapse setup:
+    - [Insta360 Ace Pro](https://amzn.to/3X0UX6h) + [aMagisn cage](https://amzn.to/3yzkha4) + [Ulanzi quick release](https://amzn.to/4cr1lYV)
+    - [GoPro Hero 10 Black](https://amzn.to/423Vp2M) + [SmallRig Hero 10 Black Cage](https://amzn.to/3BTHJN7)
+    - [GoPro Max Grip + Tripod](https://amzn.to/3orzvJ1)
+    - [Sennheiser MKE 200 mini shotgun mic](https://amzn.to/3OyDSNf)
+  - Tripod (studio): [SmallRig AD-01 Heavy-Duty Tripod](https://amzn.to/4cED0z7) + [SmallRig DH12 Fluid Head](https://amzn.to/3TEatST) + [SmallRig Dolly](https://amzn.to/4dmTKM8)
+  - Tripod (secondary): [Manfrotto MT190XPRO3](https://amzn.to/3jIKw2G) + [128RC Fluid head](https://amzn.to/3MeUk0J)
+  - Tripod (secondary): [Manfrotto 3001BN](https://amzn.to/3OhDOyz) + [Manfrotto 494RC2](https://amzn.to/3MdfewW)
+  - Tripod (travel): [ULANZI + COMAN Portable Carbon Fiber Tripod](https://amzn.to/40nM0Fh)
+  - Motorized slider (for b-roll): [iFootage Shark Slider Nano](https://amzn.to/37VAp7U)
+  - Gimbal: [DJI RSC 2 Combo](https://amzn.to/3voBRI7) (rarely used)
+  - Preview monitor (primary): [Blackmagic Video Assist 3G 7"](https://amzn.to/3xzSQKi)
+  - Preview monitor (secondary): [Atomos Ninja V](https://amzn.to/3M3YVVp)
+  - Teleprompter (a-roll): [Glide Gear TMP75](https://amzn.to/3rXma7F)
+  - Bluetooth Remote (for teleprompter): [Satechi R2](https://amzn.to/3xzVgIS)
+  - Bluetooth Remote (for Sony cameras): [JJC Wireless Bluetooth Remote](https://amzn.to/4a82Knv)
+  - Preview monitor stands: [Manfrotto PIXI Mini](https://amzn.to/3EjYW2N)
+  - Microphone: [Sennheiser MKE600](https://amzn.to/3jLpIaN)
+  - Preamp: [Symetrix 528E](https://amzn.to/3d0HdSt)
+  - USB Audio Interface: [Behringer U-Phoria UMC202HD](https://amzn.to/3jGtYHH)
+  - Microphone (shotgun - handheld): [Sony ECM-G1 Vlogger Shotgun](https://amzn.to/3X2mBzU)
+  - Microphone (shotgun - desk): [Azden SGM-250CX Compact Shotgun](https://amzn.to/3WZpam9) + [Rode SM4-R Rycote Lyre Shockmount](https://amzn.to/4fJCNgM)
+  - Microphone (wireless): [DJI Mic Wireless Set](https://amzn.to/46I7qim)
+  - Microphone (wireless): [Rode Wireless Go II](https://amzn.to/3OuP0bm)
+  - Microphone (lav): [Rode Lavaliere Go](https://amzn.to/3LaLJfp) x2
+  - SD Cards: [Sony TOUGH Series](https://amzn.to/2Z8hOht)
+  - Acoustic Treatment: [Owens Corning 703 Acoustic Insulation](https://amzn.to/3qhZE8U)
+  - HDMI Capture Interface (primary): [Elgato 4K X](https://amzn.to/44qpyga)
+  - HDMI Capture Interface (streaming): [Elgato Cam Link 4K](https://amzn.to/3qea0qp)
+  - Desk Light #1: [Elgato Key Light](https://amzn.to/3q9ZmG9)
+  - Desk Light #2: [Elgato Key Light Air](https://amzn.to/3xxHrKR)
+  - Portable audio recorder: [Zoom H6](https://amzn.to/3xKQmZC)
+  - Portable lav mic / bodypack: [Zoom F2 Bodypack Recorder](https://amzn.to/3pXAjFV)
+  - Lights: [Amaran P60x](https://amzn.to/4cnaGB8), [Amaran F21x](https://amzn.to/3YKk5PQ), [Amaran 200x](https://amzn.to/3YEtvMH), [Amaran 100x](https://amzn.to/3yrDESt), [SmallRig P200](https://amzn.to/4k7yRHk)
+  - Light stands: [Neewer C-stands](https://amzn.to/3yCk3ii), [Neewer Light Stand with Casters](https://amzn.to/3M175On), [freesea Carbon Fiber Light Stand](https://amzn.to/3Icelbg), [Manfrotto 5001B Nano Stand](https://amzn.to/4lha4Se)
+  - Light modifiers: [Aputure Light Dome II](https://amzn.to/3YBNGuS), [Godox 60cm Softbox](https://amzn.to/4covIzf)
+
+### Software
+
+  - Apple [Final Cut Pro X](https://www.apple.com/final-cut-pro/) (editing)
+  - Felt Tip [Sound Studio](https://felttip.com/ss/) (audio recording)
+  - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) (transcription and subtitling)
+  - Apple [Photos](https://www.apple.com/ios/photos/) (stills photo library)
+  - Adobe [Photoshop](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other) (thumbnail creation)
+  - Apple [Keynote](https://www.apple.com/keynote/) (illustrations and simple motion graphics)
+  - [iShowU V6](https://www.shinywhitebox.com/ishowu-v6) (screen capture)
+  - [OBS](https://obsproject.com) (streaming and capture)
+  - [Sublime Text](https://www.sublimetext.com) (writing)
+  - [Teleprompter Premium](https://teleprompterpremium.com) (script reading)
+  - [Trello](https://trello.com/) (project organization)
+  - [Square](https://squareup.com/us/en) (vendor invoicing)
+  - [Squarespace](https://www.squarespace.com) (merch store hosting)
+  - [Viewstats](https://www.viewstats.com) (external analytics)
+  - [Hindenburg Field Recorder](https://hindenburg.com/products/hindenburg-field-recorder) (mobile audio recording)
 
 ## Process - How I make a video
 
