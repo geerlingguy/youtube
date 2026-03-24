@@ -457,6 +457,12 @@ I am sometimes a bit critical of their marketing regarding security, or the upse
 
 System76 provided a Thelio Astra workstation and Launch keyboard for testing and review. Their engineers also helped with some motherboard and fan controller firmware issues as I was testing their Astra pre-launch, and provided a few additional upgrades for further testing.
 
+## ThirdReality
+
+> Type: Equipment for test/review
+
+ThirdReality provided a few of their Zigbee IoT devices for testing and review, after seeing that I use their Smart Outlets for my own power measurement. They regularly release new products that integrate with Home Assistant, and often send them to bloggers and YouTubers in the home automation/IoT space for testing (no strings attached).
+
 ## Timebeat
 
 > Type: Equipment for test/review
