@@ -287,7 +287,7 @@ I was going to purchase a full-size rack for the new studio buildout, but found 
 
 > Type: Paid sponsorship
 
-Meinberg sponsored a trip to the 2025 NAB for the Geerling Engineering channel, and one video on that channel covering time and timing in broadcast media.
+Meinberg sponsored our 2025 NAB trip for the Geerling Engineering channel, and provided some equipment for timing experiments.
 
 ## Meta (Facebook)
 
@@ -299,9 +299,9 @@ Meta provided some timing hardware for my Time Pi project and for general PTP an
 
 > Type: Paid sponsorship, travel reimbursement
 
-Micro Center has sponsored a number of videos on my channel, including one where I flew out to Charlotte, NC, for their grand opening.
+Micro Center has sponsored a number of videos on my channel, including some travel for store grand openings.
 
-They have been a very reliable and easy to work with sponsor, typically allowing me complete freedom to work on a project that integrates well with the products they sell in stores. Their staff has been some of the most helpful (with or without sponsorship) and I started shopping at their store in St. Louis well before I started accepting any sponsorships!
+They have been a very reliable and easy to work with sponsor, allowing freedom to work on projects that integrate with products they sell. Their staff has been some of the most helpful (with or without sponsorship) and I started shopping at their store in St. Louis well before I started accepting any sponsorships!
 
 ## Milk-V
 
@@ -384,6 +384,12 @@ Pineboards have provided many of their products for testing and review, and I ha
 > Type: Paid sponsorship, travel reimbursement
 
 I worked with PiShop.us on sponsorship for my travel expenses in my 2023 visit to Raspberry Pi's headquarters in the UK. Prior to that (and still to this day) I often link to their product pages for Raspberry Pis and accessories, as they have been a reliable online store for anyone located in the US, and they have a sister site in Canada.
+
+## Prusa Research
+
+> Type: Equipment for test/review
+
+Prusa provided a MK4 and Core One+ 3D printer for use on channel projects, along with certain Prusament filament spools for testing and feedback.
 
 ## Radxa
 
