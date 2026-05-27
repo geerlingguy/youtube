@@ -431,6 +431,12 @@ I have been running my Shake node ever since, and though the video I made about 
 
 Revolution Pi has provided a few of their industrial DIN rail solutions for testing and review.
 
+## Sabrent
+
+> Type: Equipment for test/review
+
+Sabrent provided an updated version of their USB power station after my initial review called out a few issues which they later resolved. I am also in conversation with them over further improvements to make it more suitable for use in rackmount configurations.
+
 ## Seeed Studio
 
 > Type: Equipment for test/review
