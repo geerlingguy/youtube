@@ -333,6 +333,12 @@ MNT Research loaned me an MNT Reform Laptop for testing and review. I shipped th
 
 Mono sent me a prototype version of the Gateway router for testing in partnership with Serve The Home. I also pre-ordered and fully paid for a Gateway Router (developer edition) independent of my testing of the pre-production unit they sent.
 
+## Muzi Works
+
+> Type: Equipment for test/review
+
+Muzi Works have sent a few of their Meshtastic nodes (both portable and stationary) for testing and feedback. Most have never been featured in a video, but when I talk about Meshtastic, I generally use one of their units for illustration.
+
 ## MyElectronics.nl
 
 > Type: Equipment for test/review
@@ -354,6 +360,12 @@ They have also provided a Home Assistant Voice Preview Edition which I tested fo
 > Type: Equipment for test/review
 
 Netgear provided an enterprise WiFi 6E router used in testing Raspberry Pi WiFi 6E equipment, as well as a WiFi 6E USB dongle used for various projects.
+
+## NetTimeLogic
+
+> Type: Equipment for test/review
+
+NetTimeLogic provided a PPS Analyzer and FPGA board used for clock PPS comparison in my mini clock rack.
 
 ## Noctua
 
@@ -424,6 +436,12 @@ Revolution Pi has provided a few of their industrial DIN rail solutions for test
 > Type: Equipment for test/review
 
 Seeed Studio has provided various products for testing and review, mostly Compute Module 4-based products and boards.
+
+## SideFX
+
+> Type: Temporary software license for evaluation
+
+SideFX provided a temporary license for their Houdini software for some evaluation and testing, which I may cover in a future video.
 
 ## Sipeed
 
