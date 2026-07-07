@@ -145,6 +145,12 @@ A number of other Homelab-related YouTube channels also picked up on it, and I w
 
 CutiePi sent a CutiePi tablet based on the Pi CM4, for my testing and review.
 
+## Cytron
+
+> Type: Equipment for test/review
+
+Cytron has sent various IoT and robotics devices for my testing and evaluation.
+
 ## DeepComputing
 
 > Type: Equipment for test/review
@@ -384,6 +390,12 @@ Notion's collaboration tools were critical during two YouTube projects where I w
 > Type: Equipment for test/review
 
 Pi-KVM provided multiple versions of their IP KVM hardware for testing and review, and have been very responsive about their open source project and hardware improvements generation over generation.
+
+## Pimoroni
+
+> Type: Equipment for test/review
+
+Pimoroni sent some of their IoT and wearable electronics for testing and review.
 
 ## Pineboards
 
