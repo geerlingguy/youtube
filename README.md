@@ -111,13 +111,13 @@ The links below are mostly affiliate links. I earn for qualifying purchases.
 ### Hardware
 
   - A-roll camera: [Sony A7CII](https://amzn.to/3SO4ATn) + [Sony FE 20-70mm f/4 G](https://amzn.to/3SKJsxf)
-  - A-roll camera: [Sony a6600](https://amzn.to/3OjtZR1) + [Sony 24mm 1.8](https://amzn.to/3JSBxXg)
+  - A-roll camera: [Sony FX30](https://amzn.to/45EJFrF) + [Sony 24mm 1.8](https://amzn.to/3JSBxXg)
   - B-roll camera #1: [Sony a6700](https://amzn.to/3UVgwmF) + [Sony 16-55mm 2.8 G](https://amzn.to/3Ej9Zt0)
   - B-roll camera #2: [iPhone 16 Pro](https://www.apple.com/iphone-16-pro/)
   - B-roll Macro lens: [Sony 50mm 2.8 Macro](https://amzn.to/3KPLPcd)
   - Handheld Vlog / Timelapse setup:
+    - [DJI Osmo Pocket 4](https://amzn.to/457znQI)
     - [Insta360 Ace Pro](https://amzn.to/3X0UX6h) + [aMagisn cage](https://amzn.to/3yzkha4) + [Ulanzi quick release](https://amzn.to/4cr1lYV)
-    - [GoPro Hero 10 Black](https://amzn.to/423Vp2M) + [SmallRig Hero 10 Black Cage](https://amzn.to/3BTHJN7)
     - [GoPro Max Grip + Tripod](https://amzn.to/3orzvJ1)
     - [Sennheiser MKE 200 mini shotgun mic](https://amzn.to/3OyDSNf)
   - Tripod (studio): [SmallRig AD-01 Heavy-Duty Tripod](https://amzn.to/4cED0z7) + [SmallRig DH12 Fluid Head](https://amzn.to/3TEatST) + [SmallRig Dolly](https://amzn.to/4dmTKM8)
@@ -134,11 +134,12 @@ The links below are mostly affiliate links. I earn for qualifying purchases.
   - Preview monitor stands: [Manfrotto PIXI Mini](https://amzn.to/3EjYW2N)
   - Microphone: [Sennheiser MKE600](https://amzn.to/3jLpIaN)
   - Preamp: [Symetrix 528E](https://amzn.to/3d0HdSt)
+  - Audio delay: [Rane AD22S](https://amzn.to/4g8oSCZ)
   - USB Audio Interface: [Behringer U-Phoria UMC202HD](https://amzn.to/3jGtYHH)
   - Microphone (shotgun - handheld): [Sony ECM-G1 Vlogger Shotgun](https://amzn.to/3X2mBzU)
   - Microphone (shotgun - desk): [Azden SGM-250CX Compact Shotgun](https://amzn.to/3WZpam9) + [Rode SM4-R Rycote Lyre Shockmount](https://amzn.to/4fJCNgM)
+  - Microphone (wireless): [DJI Mic mini](https://amzn.to/3RTPSwP)
   - Microphone (wireless): [DJI Mic Wireless Set](https://amzn.to/46I7qim)
-  - Microphone (wireless): [Rode Wireless Go II](https://amzn.to/3OuP0bm)
   - Microphone (lav): [Rode Lavaliere Go](https://amzn.to/3LaLJfp) x2
   - SD Cards: [Sony TOUGH Series](https://amzn.to/2Z8hOht)
   - Acoustic Treatment: [Owens Corning 703 Acoustic Insulation](https://amzn.to/3qhZE8U)
