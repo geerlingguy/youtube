@@ -9,7 +9,6 @@ Uses the YouTube Data API v3 to:
   1. Fetch all videos uploaded in the last LOOKBACK_DAYS days.
   2. Only match long-form videos (duration >= LONG_FORM_MIN_SECONDS).
   3. Compute the mean and median of *current* view counts for:
-       - V30: last 30 days
        - V90: last 90 days
   4. Compute the sponsorship rate as ((avg views / 1000) x CPM_USD).
 
@@ -172,16 +171,14 @@ def sponsorship_rate(avg_views: float) -> float:
     return round((avg_views / 1000.0) * CPM_USD / 10) * 10
 
 
-def build_readme_block(v30: dict, v90: dict, now: datetime) -> str:
+def build_readme_block(v90: dict, now: datetime) -> str:
     rate = sponsorship_rate(v90["mean"])
     return (
         f"{START_MARKER}\n"
         f"| Metric | Value |\n"
         f"| --- | --- |\n"
         f"| 90-day average views (V90) | **{fmt_views(v90['mean'])}** "
-        f"(median {fmt_views(v90['median'])}, {v90['count']} long-form videos) |\n"
-        f"| 30-day average views (V30) | {fmt_views(v30['mean'])} "
-        f"(median {fmt_views(v30['median'])}, {v30['count']} long-form videos) |\n"
+        f"({v90['count']} long-form videos) |\n"
         f"| Sponsorship rate (${CPM_USD:.2f} CPM × V90) | "
         f"**${rate:,.0f}** |\n"
         f"\n"
@@ -223,7 +220,8 @@ def main() -> None:
     parser.add_argument(
         "--list-videos",
         action="store_true",
-        help="Also print each video in the 90-day cohort.",
+        help="Also print each video in the 90-day cohort "
+        "(always printed with --update-readme).",
     )
     args = parser.parse_args()
 
@@ -243,25 +241,23 @@ def main() -> None:
         if v["duration_seconds"] >= LONG_FORM_MIN_SECONDS and not v["live"]
     ]
 
-    v30 = cohort_stats(long_form, 30, now)
     v90 = cohort_stats(long_form, 90, now)
     rate = sponsorship_rate(v90["mean"])
 
     print(f"Channel: {CHANNEL_HANDLE}")
     print(f"Long-form videos in last {LOOKBACK_DAYS} days: {len(long_form)}")
     print(f"(of {len(videos)} total uploads; Shorts/live excluded)\n")
-    for cohort in (v30, v90):
-        print(
-            f"V{cohort['days']}: mean {fmt_views(cohort['mean'])} | "
-            f"median {fmt_views(cohort['median'])} | "
-            f"{cohort['count']} videos"
-        )
+    print(
+        f"V90: mean {fmt_views(v90['mean'])} | "
+        f"median {fmt_views(v90['median'])} | "
+        f"{v90['count']} videos"
+    )
     print(
         f"\nSponsorship rate: {fmt_views_short(v90['mean'])} avg views ÷ 1,000 "
         f"× ${CPM_USD:.2f} CPM ≈ ${rate:,.0f}"
     )
 
-    if args.list_videos:
+    if args.list_videos or args.update_readme:
         print("\n90-day cohort:")
         for v in v90["videos"]:
             print(
@@ -270,7 +266,7 @@ def main() -> None:
             )
 
     if args.update_readme:
-        block = build_readme_block(v30, v90, now)
+        block = build_readme_block(v90, now)
         changed = update_readme(args.update_readme, block)
         print(
             f"\nREADME {'updated' if changed else 'already up to date'}: "
