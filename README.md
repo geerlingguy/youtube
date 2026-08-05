@@ -98,7 +98,7 @@ I create _stories_, not just videos that run through feature checklists and offe
 
 As such, many of my videos—even on more mundane topics—are watched by a much more invested and consistent audience. My channel's AVD is high, and sponsored segments integrate into the video topic itself, leading to much higher viewership.
 
-I have a _fixed_ paid sponsorship rate based on my channel's CPM, or Cost Per Mille (cost per thousand views), and the CPM used in this calculation is currently $15.00 USD.
+I have a _fixed_ paid sponsorship rate based on my channel's CPM, or Cost Per Mille (cost per thousand views), and the CPM used in this calculation is currently $15.00 USD, averaging video view counts over the past 90 days:
 
 <!-- SPONSORSHIP-RATE-START -->
 | Metric | Value |
@@ -109,7 +109,7 @@ I have a _fixed_ paid sponsorship rate based on my channel's CPM, or Cost Per Mi
 _Rate calculation: 359K average views ÷ 1,000 × $15.00 CPM ≈ $5,380. Updated automatically on 2026-08-05._
 <!-- SPONSORSHIP-RATE-END -->
 
-I update my sponsorship rate regularly, based on the average view count for all long-form videos posted in the past 90 days. The rate is negotiable depending on the specific video and sponsorship.
+The rate is negotiable depending on the specific video and sponsorship.
 
 ## Equipment
 
