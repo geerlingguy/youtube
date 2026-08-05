@@ -161,7 +161,7 @@ DeepComputing sent a DC-ROMA RISC-V AI PC (Framework 13" laptop), for my testing
 
 > Type: Equipment for test/review
 
-Dell provided a set of two Dell Pro Max with GB10 mini desktop computers for LLM testing on the Nvidia DGX Spark platform. They also provided power supplies and accessories used in cluster testing.
+Dell provided a set of two Dell Pro Max with GB10 mini desktop computers for LLM testing on the Nvidia DGX Spark platform. They also provided a couple laptops for review and testing, along with some accessories like cables, power supplies, and peripherals.
 
 ## DFRobot
 
