@@ -189,6 +189,14 @@ Some time after purchasing two of their small height-adjustable desks on Amazon,
 
 Working with them was fine, but they do tend to reach out multiple times a year for various campaigns, with different representatives each time (sometimes multiple emails in the same week!). They were fine, and their hardware works great (I've since bought two more Flexispot desks), but they can be a little aggressive in their pitch!
 
+## Formlabs
+
+> Type: Equipment for test/review
+
+Formlabs sent a Form Studio 1, some accessories, and 8 resin cartridges to test for their Studio 1 launch in late 2026.
+
+They required an NDA to be signed agreeing to the embargo/launch date, and gave me access to their engineers to ask any questions in the process of testing the printer.
+
 ## Fractal
 
 After seeing the 'Baby North' Raspberry Pi case design in a Paul's Hardware video from CES, I reached out to Fractal and asked if there was any possibility they had an extra one. They did, and offered to send it to me—and eventually my prodding and the community's strong desire led to them open sourcing the entire 3D printable design!
