@@ -103,10 +103,10 @@ I have a _fixed_ paid sponsorship rate based on my channel's CPM, or Cost Per Mi
 <!-- SPONSORSHIP-RATE-START -->
 | Metric | Value |
 | --- | --- |
-| 90-day average views (V90) | **480,674** (12 long-form videos) |
-| Sponsorship rate ($15.00 CPM × V90) | **$7,210** |
+| 90-day average views (V90) | **488,362** (11 long-form videos) |
+| Sponsorship rate ($15.00 CPM × V90) | **$7,330** |
 
-_Rate calculation: 481K average views ÷ 1,000 × $15.00 CPM ≈ $7,210. Updated automatically on 2026-10-26._
+_Rate calculation: 488K average views ÷ 1,000 × $15.00 CPM ≈ $7,330. Updated automatically on 2026-11-02._
 <!-- SPONSORSHIP-RATE-END -->
 
 The rate is negotiable depending on the specific video and sponsorship.
